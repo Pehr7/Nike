@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Menu_Modelo.MainPage" 
+             BackgroundColor="LightGray">
+
+    <Grid>
+       
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="50"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="*"/>
+
+
+
+
+
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="15"/>
+            
+           
+
+
+        </Grid.RowDefinitions>
+        <Label Text="Promoções" TextColor="Black" FontSize="Title" FontAttributes="Bold" Grid.Column="3" Grid.Row="1" Grid.RowSpan="13" Grid.ColumnSpan="12" VerticalOptions="StartAndExpand"       
+        HorizontalOptions="StartAndExpand"/>
+        <Image Source="nik.jpg"
+        Grid.ColumnSpan="9"
+        Grid.RowSpan="14"
+        Grid.Row="4"
+        Grid.Column="0"/>
+
+
+
+        <Image Source="Bannern.jpg"
+        Grid.ColumnSpan="9"
+        Grid.RowSpan="15"
+        Grid.Row="16"
+        VerticalOptions="StartAndExpand"       
+        HorizontalOptions="StartAndExpand"/>
+
+        
+        <Image Source="banike.jpg"
+        Grid.ColumnSpan="15"
+        Grid.RowSpan="15"
+        Grid.Row="25"
+        VerticalOptions="StartAndExpand"       
+        HorizontalOptions="StartAndExpand"/>
+
+        
+
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Menu_Modelo.View.MasterPage">
+    
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu" Padding="0">
+            <ContentPage.Content>
+                <StackLayout>
+                    <Grid BackgroundColor="Black">
+                        <Image Source="nike2.png" Grid.ColumnSpan="10" Grid.RowSpan="10"/>
+
+                        <!--colunas-->
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="10"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="10"/>
+
+                        </Grid.ColumnDefinitions>
+                        <!--linhas-->
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="80"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="10"/>
+
+
+                        </Grid.RowDefinitions>
+                       
+                    </Grid>
+                    <TableView Intent="Menu">
+                        <TableSection>
+                            <ViewCell Tapped="GoPage1">
+                                <Label Text="Pedidos" TextColor="Black" FontAttributes="Bold"  VerticalTextAlignment="Center"/>
+
+                            </ViewCell>
+                            <ViewCell Tapped="GoPage2">
+                                <Label Text="Produtos" TextColor="Black" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                            </ViewCell>
+                            <ViewCell Tapped="GoPage3">
+                                <Label Text="Mais Informações" TextColor="Black" FontAttributes="Bold"  VerticalTextAlignment="Center"/>
+                            </ViewCell>
+                        </TableSection>
+                        
+                        
+                    </TableView>
+
+                </StackLayout>
+
+            </ContentPage.Content>
+
+        </ContentPage>
+
+    </MasterDetailPage.Master>
+
+</MasterDetailPage>

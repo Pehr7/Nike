@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Menu_Modelo.Page1"
+             Title="Faça seu pedido">
+
+
+    <StackLayout>
+        <Image Source="nilogo.png"
+                    Grid.ColumnSpan="4"
+                    Grid.RowSpan="3"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    VerticalOptions="StartAndExpand"
+                    HorizontalOptions="CenterAndExpand"/>
+        
+        <Entry x:Name="Name" Placeholder="Entre com seu nome"/>
+        <Entry x:Name="Address" Placeholder="Digite qual produto deseja"/>
+        <StackLayout>
+            <Button x:Name="SavaButton" Text="Salvar" Clicked="SavaButton_Clicked"/>
+            <Button x:Name="ShowButton" Text="Visualizar" Clicked="ShowButton_Clicked"/>
+            <Button x:Name="ExlButton" Text=" Excluir" Clicked="ExlButton_Clicked"/>
+           
+            <!--add listview-->
+            <ListView x:Name="Datalist">
+                <!--add Template do listview-->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!--add controle vinculado-->
+                        <TextCell Text="{Binding Name}" Detail="{Binding Address}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

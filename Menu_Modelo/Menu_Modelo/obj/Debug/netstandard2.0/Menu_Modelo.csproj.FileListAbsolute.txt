@@ -1,0 +1,52 @@
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.deps.json
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.dll
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\ref\Menu_Modelo.dll
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.pdb
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.AssemblyInfoInputs.cache
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.AssemblyInfo.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.dll
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\ref\Menu_Modelo.dll
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.pdb
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\View\MasterPage.xaml.g.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pedro.hrvieira\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.deps.json
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.dll
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\ref\Menu_Modelo.dll
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.pdb
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\View\MasterPage.xaml.g.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.AssemblyInfo.cs
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.dll
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\ref\Menu_Modelo.dll
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.pdb
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.deps.json
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.dll
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\ref\Menu_Modelo.dll
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\bin\Debug\netstandard2.0\Menu_Modelo.pdb
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.csprojAssemblyReference.cache
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\View\MasterPage.xaml.g.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.AssemblyInfoInputs.cache
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.AssemblyInfo.cs
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.dll
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\ref\Menu_Modelo.dll
+E:\Nike\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.pdb
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\source\repos\Menu_Modelo\Menu_Modelo\Menu_Modelo\obj\Debug\netstandard2.0\Menu_Modelo.csproj.CoreCompileInputs.cache
